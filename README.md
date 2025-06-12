@@ -28,7 +28,7 @@
 ---
 
 ## 💬 ¿Conectamos?
-🔹 LinkedIn: [Tu perfil](https://www.linkedin.com/in/adrián-carretero-alcázar-02328316a/)  
+🔹 LinkedIn: [Perfil Adrián](https://www.linkedin.com/in/adrián-carretero-alcázar-02328316a/)  
 🔹 Email: acarreteroal@outlook.com 
 🔹 Abre un issue o colabora en cualquier repo
 
